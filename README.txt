@@ -26,7 +26,7 @@ A Firebase Project configured for Android.
 Google Maps API Key.
 Setup Instructions
 Clone the repository:
-git clone https://github.com/your-username/Namma-Hasiru.git
+git clone https://github.com/Keerthana-data/Namma_Hasiru.git
 Add Firebase Credentials:
 Go to the Firebase Console.
 Download the google-services.json file for your registered Android app.
