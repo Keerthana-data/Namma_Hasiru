@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Namma-Hasiru</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_map">Tree Map</string>
+    <string name="nav_guide">Species Guide</string>
+    <string name="survival_score_title">Community survival</string>
+    <string name="add_plant">New plant</string>
+    <string name="species_hint">Species name</string>
+    <string name="village_hint">Village or locality</string>
+    <string name="capture_photo">Capture planting photo</string>
+    <string name="save_plant">Save plantation entry</string>
+    <string name="use_my_location">Use my GPS location</string>
+    <string name="status_update">Save status update</string>
+    <string name="growth_photo">Add growth photo</string>
+    <string name="notification_channel">Check-up reminders</string>
+    <string name="checkup_notification_title">Time to check your tree</string>
+    <string name="checkup_notification_body">Open Namma-Hasiru and record survival for: %1$s</string>
+    <string name="home_subtitle">Track, revisit, and grow your green mission.</string>
+    <string name="map_hint">Tap any marker to open status details.</string>
+    <string name="google_maps_key"> map api key </string>
+</resources>

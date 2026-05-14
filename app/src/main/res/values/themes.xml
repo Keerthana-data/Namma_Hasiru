@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.NammaHasiru" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/nh_green_primary</item>
+        <item name="colorPrimaryVariant">@color/nh_green_dark</item>
+        <item name="colorOnPrimary">@color/nh_on_primary</item>
+        <item name="colorSecondary">@color/nh_green_light</item>
+        <item name="android:colorBackground">@color/nh_cream_soft</item>
+        <item name="colorSurface">@color/nh_surface</item>
+        <item name="colorOutline">@color/nh_divider</item>
+        <item name="android:statusBarColor">@color/nh_green_dark</item>
+        <item name="android:navigationBarColor">@color/nh_surface</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>

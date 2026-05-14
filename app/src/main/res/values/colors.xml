@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nh_green_dark">#1B5E20</color>
+    <color name="nh_green_primary">#2E7D32</color>
+    <color name="nh_green_light">#558B2F</color>
+    <color name="nh_green_soft">#E8F5E9</color>
+    <color name="nh_earth_brown">#5D4037</color>
+    <color name="nh_cream">#F1F8E9</color>
+    <color name="nh_cream_soft">#FAFCF5</color>
+    <color name="nh_leaf_accent">#7CB342</color>
+    <color name="nh_surface">#FFFFFF</color>
+    <color name="nh_divider">#DCE7D4</color>
+    <color name="nh_text_primary">#1F2A1F</color>
+    <color name="nh_text_secondary">#556B56</color>
+    <color name="nh_chip_bg">#E1F0DD</color>
+    <color name="nh_on_primary">#FFFFFF</color>
+</resources>
